@@ -1,0 +1,16 @@
+html body {
+	display: table;
+	width: 75vw;
+	margin: 0 auto;
+	padding-bottom: 5em;
+}
+
+h1 {
+	font: 400 32px/40px Google Sans,Noto Sans,Noto Sans JP,Noto Sans KR,Noto Naskh Arabic,Noto Sans Thai,Noto Sans Hebrew,Noto Sans Bengali,sans-serif !important;
+}
+h2 {
+	font: 400 24px/32px Google Sans,Noto Sans,Noto Sans JP,Noto Sans KR,Noto Naskh Arabic,Noto Sans Thai,Noto Sans Hebrew,Noto Sans Bengali,sans-serif !important;
+}
+h3 {
+	font: 400 20px/28px Google Sans,Noto Sans,Noto Sans JP,Noto Sans KR,Noto Naskh Arabic,Noto Sans Thai,Noto Sans Hebrew,Noto Sans Bengali,sans-serif !important;
+}
