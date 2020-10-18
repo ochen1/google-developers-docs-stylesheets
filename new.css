@@ -1,8 +1,6 @@
 html body {
-	display: table;
 	width: 75vw;
 	margin: 0 auto;
-	padding-bottom: 5em;
 }
 
 h1 {
